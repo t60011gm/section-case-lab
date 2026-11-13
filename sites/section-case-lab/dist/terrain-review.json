@@ -1,0 +1,803 @@
+[
+  {
+    "id": "A01",
+    "name": "House in Miyamoto",
+    "url": "cases/a01/",
+    "components": 0,
+    "summary": "已目視原剖面；新增0個可剖切地形構件。",
+    "evidence": [
+      "原剖透視僅標GL±0與1FL+150，沒有可定位的周邊地面輪廓；不據平台圖臆造外部地形。"
+    ],
+    "assumptions": [
+      "未新增土體；需其他可定位的基地剖面或測繪資料，才能重建周邊地形。"
+    ],
+    "status": "not_added_insufficient_evidence"
+  },
+  {
+    "id": "A02",
+    "name": "One-Room Residence of 5 Layers",
+    "url": "cases/a02/",
+    "components": 1,
+    "summary": "已目視原剖面；新增1個可剖切地形構件。",
+    "evidence": [
+      "image53.jpg灰色土體沿低端入口至高端起居室上升，建築下方為開挖後階梯基面；紅虛線不是現況地表，不作土體上緣。"
+    ],
+    "assumptions": [
+      "地層向下厚度、圖外截斷位置與橫向擠出深度均為顯示用推估，不代表地質、地界或工程尺寸；不填未核實的建築下方空腔。"
+    ],
+    "status": "added_source_based"
+  },
+  {
+    "id": "A03",
+    "name": "Pit House",
+    "url": "cases/a03/",
+    "components": 2,
+    "summary": "已目視原剖面；新增2個可剖切地形構件。",
+    "evidence": [
+      "image55.jpg可見左側花園GL+1100、下沉中央地坪及右側三級庭園；只補建築輪廓外可定位土體，不填中央下沉室內。"
+    ],
+    "assumptions": [
+      "地層向下厚度、圖外截斷位置與橫向擠出深度均為顯示用推估，不代表地質、地界或工程尺寸；不填未核實的建築下方空腔。"
+    ],
+    "status": "added_source_based"
+  },
+  {
+    "id": "A04",
+    "name": "Binh House",
+    "url": "cases/a04/",
+    "components": 2,
+    "summary": "已目視原剖面；新增2個可剖切地形構件。",
+    "evidence": [
+      "image57.jpg剖透視底部兩處庭園及外側種植帶可辨；只在模型已定位的兩處庭園下補土，不從透視反推外側距離。"
+    ],
+    "assumptions": [
+      "地層向下厚度、圖外截斷位置與橫向擠出深度均為顯示用推估，不代表地質、地界或工程尺寸；不填未核實的建築下方空腔。"
+    ],
+    "status": "added_source_based"
+  },
+  {
+    "id": "A05",
+    "name": "House in Nada",
+    "url": "cases/a05/",
+    "components": 2,
+    "summary": "已目視原剖面；新增2個可剖切地形構件。",
+    "evidence": [
+      "image59.jpg左側車庫前地面緩升至入口，右側室外地面近水平；地下STORAGE為明確空腔，土體僅在建築兩端外側。"
+    ],
+    "assumptions": [
+      "地層向下厚度、圖外截斷位置與橫向擠出深度均為顯示用推估，不代表地質、地界或工程尺寸；不填未核實的建築下方空腔。"
+    ],
+    "status": "added_source_based"
+  },
+  {
+    "id": "A06",
+    "name": "House NA",
+    "url": "cases/a06/",
+    "components": 2,
+    "summary": "已目視原剖面；新增2個可剖切地形構件。",
+    "evidence": [
+      "image61.jpg兩道剖面兩側均有水平GL線，且STR05/04低於GL；只加兩側地面，不填建築內低層空間。"
+    ],
+    "assumptions": [
+      "地層向下厚度、圖外截斷位置與橫向擠出深度均為顯示用推估，不代表地質、地界或工程尺寸；不填未核實的建築下方空腔。"
+    ],
+    "status": "added_source_based"
+  },
+  {
+    "id": "A07",
+    "name": "Ghat House",
+    "url": "cases/a07/",
+    "components": 1,
+    "summary": "已目視原剖面；新增1個可剖切地形構件。",
+    "evidence": [
+      "image63.jpg上方長剖面實線顯示左低右高山坡、低端平台開挖及高端擋土；虛線原地形不作現況土體表面。"
+    ],
+    "assumptions": [
+      "地層向下厚度、圖外截斷位置與橫向擠出深度均為顯示用推估，不代表地質、地界或工程尺寸；不填未核實的建築下方空腔。"
+    ],
+    "status": "added_source_based"
+  },
+  {
+    "id": "A09",
+    "name": "House in Yamasaki",
+    "url": "cases/a09/",
+    "components": 2,
+    "summary": "已目視原剖面；新增2個可剖切地形構件。",
+    "evidence": [
+      "image67.jpg兩道剖面皆以點狀填充標示周邊與底部土體，外側地面高於室內底板；僅補兩端可辨土體。"
+    ],
+    "assumptions": [
+      "地層向下厚度、圖外截斷位置與橫向擠出深度均為顯示用推估，不代表地質、地界或工程尺寸；不填未核實的建築下方空腔。"
+    ],
+    "status": "added_source_based"
+  },
+  {
+    "id": "A10",
+    "name": "Final Wooden House",
+    "url": "cases/a10/",
+    "components": 2,
+    "summary": "已目視原剖面；新增2個可剖切地形構件。",
+    "evidence": [
+      "image69.jpg兩側GL水平線與淡灰土體可辨，下沉浴室及basement slab明確；只補外側地層，保留下沉浴室空腔。"
+    ],
+    "assumptions": [
+      "地層向下厚度、圖外截斷位置與橫向擠出深度均為顯示用推估，不代表地質、地界或工程尺寸；不填未核實的建築下方空腔。"
+    ],
+    "status": "added_source_based"
+  },
+  {
+    "id": "A11",
+    "name": "HouseT",
+    "url": "cases/a11/",
+    "components": 2,
+    "summary": "已目視原剖面；新增2個可剖切地形構件。",
+    "evidence": [
+      "image71.png section A兩端標GL±0，地面低於首層地坪；僅補兩端水平土帶，不推估內部地基。"
+    ],
+    "assumptions": [
+      "地層向下厚度、圖外截斷位置與橫向擠出深度均為顯示用推估，不代表地質、地界或工程尺寸；不填未核實的建築下方空腔。"
+    ],
+    "status": "added_source_based"
+  },
+  {
+    "id": "A12",
+    "name": "House in Horinouchi",
+    "url": "cases/a12/",
+    "components": 2,
+    "summary": "已目視原剖面；新增2個可剖切地形構件。",
+    "evidence": [
+      "image73.jpg section A兩端水平地線可辨；section B河堤坡線屬另一位置，不能直接套入本模型A剖面，故本次不加河堤斜坡。"
+    ],
+    "assumptions": [
+      "地層向下厚度、圖外截斷位置與橫向擠出深度均為顯示用推估，不代表地質、地界或工程尺寸；不填未核實的建築下方空腔。"
+    ],
+    "status": "added_source_based"
+  },
+  {
+    "id": "A13",
+    "name": "Stairway House",
+    "url": "cases/a13/",
+    "components": 0,
+    "summary": "已目視原剖面；新增0個可剖切地形構件。",
+    "evidence": [
+      "image75.jpg僅示建築與大梯剖切外形，未畫周邊土體或獨立地表線；底板不當成土層，不另補周邊地形。"
+    ],
+    "assumptions": [
+      "未新增土體；需其他可定位的基地剖面或測繪資料，才能重建周邊地形。"
+    ],
+    "status": "not_added_insufficient_evidence"
+  },
+  {
+    "id": "A17",
+    "name": "House in Tsukimiyama",
+    "url": "cases/a17/",
+    "components": 5,
+    "summary": "補兩側接地、中央中庭土層及基礎下底土，避開室內。",
+    "evidence": [
+      "原圖有明確棕色土層：左右地面略有高差，中庭為土面。"
+    ],
+    "assumptions": [
+      "地層向下厚度與 x 向擠出寬度為教學模型推估，不代表地質鑽探、實測地形或完整基地。",
+      "只依本張剖面可見地表補入局部地面；未核驗的遠端地形不延伸。",
+      "中庭土層從既有簡化地板下方開始，不把原圖根系當成構造。"
+    ],
+    "status": "added_from_section",
+    "sourceImage": "image83.jpg",
+    "terrainComponents": 5
+  },
+  {
+    "id": "A18",
+    "name": "Stepping Park House",
+    "url": "cases/a18/",
+    "components": 3,
+    "summary": "補地下室兩側平緩室外地面及地下室底板以下土體。",
+    "evidence": [
+      "原剖面左右綠地約在停車層標高，地下室低於該地面。"
+    ],
+    "assumptions": [
+      "地層向下厚度與 x 向擠出寬度為教學模型推估，不代表地質鑽探、實測地形或完整基地。",
+      "只依本張剖面可見地表補入局部地面；未核驗的遠端地形不延伸。",
+      "左緣細微自然起伏簡化為局部水平地面，未添加坡地。"
+    ],
+    "status": "added_from_section",
+    "sourceImage": "image85.jpg",
+    "terrainComponents": 3
+  },
+  {
+    "id": "A22",
+    "name": "Bookshelf House",
+    "url": "cases/a22/",
+    "components": 4,
+    "summary": "採 Section 1 的 GL 與車庫下方關係補局部土體，不混用另一切線坡地。",
+    "evidence": [
+      "上方 Section 1 左右標示 GL，車庫在 GL 以下。"
+    ],
+    "assumptions": [
+      "地層向下厚度與 x 向擠出寬度為教學模型推估，不代表地質鑽探、實測地形或完整基地。",
+      "只依本張剖面可見地表補入局部地面；未核驗的遠端地形不延伸。",
+      "下方 Section 2 顯示的右側斜地形不是本模型切線，故沒有移植過來。",
+      "右側土體始於模型車庫外牆外，未封堵車庫內部。"
+    ],
+    "status": "added_from_section",
+    "sourceImage": "image93.jpg",
+    "terrainComponents": 4
+  },
+  {
+    "id": "A23",
+    "name": "Nest",
+    "url": "cases/a23/",
+    "components": 5,
+    "summary": "補外部地面及庭院植栽土丘，保留下沉房間與中央下沉通行空間。",
+    "evidence": [
+      "原圖灰色土層包圍兩側下沉空間，中央兩側有植栽土丘。"
+    ],
+    "assumptions": [
+      "地層向下厚度與 x 向擠出寬度為教學模型推估，不代表地質鑽探、實測地形或完整基地。",
+      "只依本張剖面可見地表補入局部地面；未核驗的遠端地形不延伸。",
+      "土丘輪廓以直線簡化，中央下沉通行口與左右地下室保持留空。"
+    ],
+    "status": "added_from_section",
+    "sourceImage": "image95.jpg",
+    "terrainComponents": 5
+  },
+  {
+    "id": "A25",
+    "name": "Stepped House Toward the Landscape",
+    "url": "cases/a25/",
+    "components": 1,
+    "summary": "補沿前低後高樓地板下方的階梯狀基地；不任意造斜坡。",
+    "evidence": [
+      "原圖深灰地層沿左側低室、中央平台、右側高室逐段上升。"
+    ],
+    "assumptions": [
+      "地層向下厚度與 x 向擠出寬度為教學模型推估，不代表地質鑽探、實測地形或完整基地。",
+      "只依本張剖面可見地表補入局部地面；未核驗的遠端地形不延伸。",
+      "最右側突然上升的灰色邊界缺乏足夠基地範圍資訊，此版截於較低露天地坪，不推定其高壁或遠端坡勢。"
+    ],
+    "status": "added_from_section",
+    "sourceImage": "image99.jpg",
+    "terrainComponents": 1
+  },
+  {
+    "id": "A039",
+    "name": "d+k House",
+    "url": "cases/a039/",
+    "components": 5,
+    "summary": "補舊屋下與新擴建下方土體，右側花園按原圖向外下降。",
+    "evidence": [
+      "原圖露台下方至花園的地表線向右下斜降。",
+      "舊屋下方另有 Hall 空間，不能以舊屋地坪一刀填滿。"
+    ],
+    "assumptions": [
+      "地層向下厚度與 x 向擠出寬度為教學模型推估，不代表地質鑽探、實測地形或完整基地。",
+      "只依本張剖面可見地表補入局部地面；未核驗的遠端地形不延伸。",
+      "模型左側 Hall 位置尚未完整建構；地層在該區降至圖示 Hall 底板以下，避免封堵原圖地下空間。"
+    ],
+    "status": "added_from_section",
+    "sourceImage": "image65.jpg",
+    "terrainComponents": 5
+  },
+  {
+    "id": "A046",
+    "name": "Townhouse B14",
+    "url": "cases/a046/",
+    "components": 3,
+    "status": "added_horizontal",
+    "summary": "原剖面在最低層左右兩側畫出水平外地坪線，未顯示山坡。模型沿原圖地坪線補左右地面，保留室內空間；橫向寬度與向下土層厚度是可剖切的教學推估，並非地質或基礎調查。",
+    "evidence": "原剖面底部左右外地坪線為水平；上方 Terrasse 為屋頂露臺，不是山坡。",
+    "assumptions": "x±3橫向土體與y=-1.3底界為教學推估；不補未知地質層、基礎及周邊街廓。"
+  },
+  {
+    "id": "A054",
+    "name": "Ku.Be House of Culture in Movement",
+    "url": "cases/a054/",
+    "components": 0,
+    "summary": "已核對，暫不補周邊地形。",
+    "evidence": [
+      "圖面顯示室內斜地板與局部地下室，但沒有可辨識的室外基地地表延伸。"
+    ],
+    "assumptions": [
+      "不把室內遊戲斜坡當室外地形，也不憑地下室存在推定周邊坡度。"
+    ],
+    "status": "reviewed_not_added",
+    "sourceImage": "image79.jpg",
+    "terrainComponents": 0
+  },
+  {
+    "id": "A057",
+    "name": "Stavros Niarchos Foundation Cultural Centre",
+    "url": "cases/a057/",
+    "components": 3,
+    "summary": "只補歌劇院剖面左右步行地坪外側與最深舞台坑下方局部土層。",
+    "evidence": [
+      "原圖左右外部地面接近主入口標高，舞台地下坑較深。"
+    ],
+    "assumptions": [
+      "地層向下厚度與 x 向擠出寬度為教學模型推估，不代表地質鑽探、實測地形或完整基地。",
+      "只依本張剖面可見地表補入局部地面；未核驗的遠端地形不延伸。",
+      "未將文化中心屋頂花園或整體公園坡地移植到歌劇院剖面。",
+      "中央土層從最深底板以下開始，淺層未填滿，以免遮蔽地下服務空間。"
+    ],
+    "status": "added_from_section",
+    "sourceImage": "image81.jpg",
+    "terrainComponents": 3
+  },
+  {
+    "id": "A059",
+    "name": "Fort Mason Center for Arts & Culture",
+    "url": "cases/a059/",
+    "components": 0,
+    "summary": "已核對，不補土坡；本剖面是碼頭上建築。",
+    "evidence": [
+      "原圖下部為藍色水域與 Historic Pier Structure，並非連續土層。"
+    ],
+    "assumptions": [
+      "沒有海床實測資訊，不將藍色水面轉成棕色 terrain，也不憑空填實樁下空間。"
+    ],
+    "status": "reviewed_not_added",
+    "sourceImage": "image87.jpg",
+    "terrainComponents": 0
+  },
+  {
+    "id": "A069",
+    "name": "CaixaForum Sevilla",
+    "url": "cases/a069/",
+    "components": 3,
+    "summary": "補地下建築外周與底板以下土層，保留整段地下展廳空腔。",
+    "evidence": [
+      "原 HH′ 圖顯示地表下有多層展廳，最外周及基底外有深色包圍區。"
+    ],
+    "assumptions": [
+      "地層向下厚度與 x 向擠出寬度為教學模型推估，不代表地質鑽探、實測地形或完整基地。",
+      "只依本張剖面可見地表補入局部地面；未核驗的遠端地形不延伸。",
+      "深色並非土質材性證明；僅用作外周地層示意，不填入深色繪製的室內空間。",
+      "地上斜線屬遮棚輪廓，不解讀為坡地。"
+    ],
+    "status": "added_from_section",
+    "sourceImage": "image89.jpg",
+    "terrainComponents": 3
+  },
+  {
+    "id": "A076",
+    "name": "Centro Cultural Casal Balaguer",
+    "url": "cases/a076/",
+    "components": 3,
+    "summary": "補最底層以下及外牆外側地層；不把樓層高差當天然坡地。",
+    "evidence": [
+      "原圖底部連續剖切填紋延至右側戶外地面。"
+    ],
+    "assumptions": [
+      "地層向下厚度與 x 向擠出寬度為教學模型推估，不代表地質鑽探、實測地形或完整基地。",
+      "只依本張剖面可見地表補入局部地面；未核驗的遠端地形不延伸。",
+      "僅於最低樓層下方加土，不填滿左側舊屋與右側拱廳內部；原圖局部埋深與門檻細節不作實測重建。"
+    ],
+    "status": "added_from_section",
+    "sourceImage": "image91.jpg",
+    "terrainComponents": 3
+  },
+  {
+    "id": "A093",
+    "name": "Sluzewski Culture Centre",
+    "url": "cases/a093/",
+    "components": 1,
+    "summary": "補下沉劇場兩側階梯及底部下方地層，維持中央凹入空間。",
+    "evidence": [
+      "原圖剖切地層直接貼合兩側階梯及中央低平台，構成下沉庭院。"
+    ],
+    "assumptions": [
+      "地層向下厚度與 x 向擠出寬度為教學模型推估，不代表地質鑽探、實測地形或完整基地。",
+      "只依本張剖面可見地表補入局部地面；未核驗的遠端地形不延伸。",
+      "階梯級數沿用現有簡化模型；土體表面在既有踏階下方退讓，避免兩種材料重疊。"
+    ],
+    "status": "added_from_section",
+    "sourceImage": "image97.jpg",
+    "terrainComponents": 1
+  },
+  {
+    "id": "IC005",
+    "name": "SONO Salon",
+    "url": "cases/ic005/",
+    "components": 2,
+    "summary": "原剖面在兩端外牆外有短段戶外地面線；只補兩端，不延伸穿過室內。",
+    "evidence": [
+      "逐案目視原剖面 image39.jpg。",
+      "原剖面在兩端外牆外有短段戶外地面線；只補兩端，不延伸穿過室內。"
+    ],
+    "assumptions": [
+      "地表位置按原剖面近似描繪；下方地層厚度與水平截斷邊界僅為剖切展示推估，並非鑽探資料。",
+      "地層沿模型橫向等寬延伸至 x=-1.6～1.6 相對單位，未由基地平面校核；材質與棕灰色為示意。"
+    ],
+    "status": "added",
+    "componentsAdded": 2
+  },
+  {
+    "id": "IC006",
+    "name": "Dental Clinic with Coved Ceiling",
+    "url": "cases/ic006/",
+    "components": 0,
+    "summary": "剖透視底部為建築樓板；右端雖標停車區，未提供可辨識的獨立地形剖線，不把透視斜線解讀成坡地。",
+    "evidence": [
+      "逐案目視原剖面 image45.jpg。",
+      "剖透視底部為建築樓板；右端雖標停車區，未提供可辨識的獨立地形剖線，不把透視斜線解讀成坡地。"
+    ],
+    "assumptions": [
+      "不因樓板、平台或構造底邊而推定大地；待有基地剖面或其他可核驗資料才補建。"
+    ],
+    "status": "not_supported",
+    "componentsAdded": 0
+  },
+  {
+    "id": "IC008",
+    "name": "Carley Hair Salon",
+    "url": "cases/ic008/",
+    "components": 0,
+    "summary": "圖中高低差由室內樓板及入口階梯構成；未見可確認的室外土層或地形剖線。",
+    "evidence": [
+      "逐案目視原剖面 image47.jpg。",
+      "圖中高低差由室內樓板及入口階梯構成；未見可確認的室外土層或地形剖線。"
+    ],
+    "assumptions": [
+      "不因樓板、平台或構造底邊而推定大地；待有基地剖面或其他可核驗資料才補建。"
+    ],
+    "status": "not_supported",
+    "componentsAdded": 0
+  },
+  {
+    "id": "IC021",
+    "name": "Micro-apartment in Berlin",
+    "url": "cases/ic021/",
+    "components": 0,
+    "summary": "圖面為微型住宅內部服務核心剖面，未交代與室外地面的關係。",
+    "evidence": [
+      "逐案目視原剖面 image3.jpg。",
+      "圖面為微型住宅內部服務核心剖面，未交代與室外地面的關係。"
+    ],
+    "assumptions": [
+      "不因樓板、平台或構造底邊而推定大地；待有基地剖面或其他可核驗資料才補建。"
+    ],
+    "status": "not_supported",
+    "componentsAdded": 0
+  },
+  {
+    "id": "IC024",
+    "name": "Studyroom#1",
+    "url": "cases/ic024/",
+    "components": 0,
+    "summary": "既有住宅樓板與陽台不等於地表，圖面沒有室外地形資訊。",
+    "evidence": [
+      "逐案目視原剖面 image37.jpg。",
+      "既有住宅樓板與陽台不等於地表，圖面沒有室外地形資訊。"
+    ],
+    "assumptions": [
+      "不因樓板、平台或構造底邊而推定大地；待有基地剖面或其他可核驗資料才補建。"
+    ],
+    "status": "not_supported",
+    "componentsAdded": 0
+  },
+  {
+    "id": "IC032",
+    "name": "Capsule Hotel and Bookstore in Village Qinglongwu",
+    "url": "cases/ic032/",
+    "components": 1,
+    "summary": "圖左可見地表與建築基底相接；只補目前模型左側相鄰地表，不將未完整重建的右側遠端庭園搬到模型邊界。",
+    "evidence": [
+      "逐案目視原剖面 image.jpg。",
+      "圖左可見地表與建築基底相接；只補目前模型左側相鄰地表，不將未完整重建的右側遠端庭園搬到模型邊界。"
+    ],
+    "assumptions": [
+      "地表位置按原剖面近似描繪；下方地層厚度與水平截斷邊界僅為剖切展示推估，並非鑽探資料。",
+      "地層沿模型橫向等寬延伸至 x=-1.6～1.6 相對單位，未由基地平面校核；材質與棕灰色為示意。"
+    ],
+    "status": "added",
+    "componentsAdded": 1
+  },
+  {
+    "id": "IC035",
+    "name": "Rong Bao Zhai Coffee Bookstore",
+    "url": "cases/ic035/",
+    "components": 0,
+    "summary": "右側露天空院底部與建築板相連，但沒有獨立土層線；保留為構造，不改成大地。",
+    "evidence": [
+      "逐案目視原剖面 image27.jpg。",
+      "右側露天空院底部與建築板相連，但沒有獨立土層線；保留為構造，不改成大地。"
+    ],
+    "assumptions": [
+      "不因樓板、平台或構造底邊而推定大地；待有基地剖面或其他可核驗資料才補建。"
+    ],
+    "status": "not_supported",
+    "componentsAdded": 0
+  },
+  {
+    "id": "IC039",
+    "name": "Café Murasaki",
+    "url": "cases/ic039/",
+    "components": 2,
+    "summary": "入口零標高與抬高室內地坪有明確高差，地坪下可見地面符號；地層限於樓板底以下，入口另留構造厚度。",
+    "evidence": [
+      "逐案目視原剖面 image9.jpg。",
+      "入口零標高與抬高室內地坪有明確高差，地坪下可見地面符號；地層限於樓板底以下，入口另留構造厚度。"
+    ],
+    "assumptions": [
+      "地表位置按原剖面近似描繪；下方地層厚度與水平截斷邊界僅為剖切展示推估，並非鑽探資料。",
+      "地層沿模型橫向等寬延伸至 x=-1.6～1.6 相對單位，未由基地平面校核；材質與棕灰色為示意。"
+    ],
+    "status": "added",
+    "componentsAdded": 2
+  },
+  {
+    "id": "IC047",
+    "name": "naïve Bookstore",
+    "url": "cases/ic047/",
+    "components": 0,
+    "summary": "書店地坪與室內凹降、平台屬建築構造，圖面未標外部地形。",
+    "evidence": [
+      "逐案目視原剖面 image33.jpg。",
+      "書店地坪與室內凹降、平台屬建築構造，圖面未標外部地形。"
+    ],
+    "assumptions": [
+      "不因樓板、平台或構造底邊而推定大地；待有基地剖面或其他可核驗資料才補建。"
+    ],
+    "status": "not_supported",
+    "componentsAdded": 0
+  },
+  {
+    "id": "IC056",
+    "name": "Bosgaurus Coffee Roasters",
+    "url": "cases/ic056/",
+    "components": 0,
+    "summary": "剖透視的厚黑底板與內部錯層不是可確認的土層，無足夠戶外地形資料。",
+    "evidence": [
+      "逐案目視原剖面 image35.jpg。",
+      "剖透視的厚黑底板與內部錯層不是可確認的土層，無足夠戶外地形資料。"
+    ],
+    "assumptions": [
+      "不因樓板、平台或構造底邊而推定大地；待有基地剖面或其他可核驗資料才補建。"
+    ],
+    "status": "not_supported",
+    "componentsAdded": 0
+  },
+  {
+    "id": "IC057",
+    "name": "Cultura Bookstore",
+    "url": "cases/ic057/",
+    "components": 0,
+    "summary": "圖示上下兩層書店及下層空間，未交代外部地面；尤其不能以主層樓板標高填滿下層。",
+    "evidence": [
+      "逐案目視原剖面 image29.jpg。",
+      "圖示上下兩層書店及下層空間，未交代外部地面；尤其不能以主層樓板標高填滿下層。"
+    ],
+    "assumptions": [
+      "不因樓板、平台或構造底邊而推定大地；待有基地剖面或其他可核驗資料才補建。"
+    ],
+    "status": "not_supported",
+    "componentsAdded": 0
+  },
+  {
+    "id": "IC058",
+    "name": "Conarte Bookstore",
+    "url": "cases/ic058/",
+    "components": 0,
+    "summary": "閱讀拱室與前廳剖面只有地坪基線，無室外地面剖線。",
+    "evidence": [
+      "逐案目視原剖面 image31.jpg。",
+      "閱讀拱室與前廳剖面只有地坪基線，無室外地面剖線。"
+    ],
+    "assumptions": [
+      "不因樓板、平台或構造底邊而推定大地；待有基地剖面或其他可核驗資料才補建。"
+    ],
+    "status": "not_supported",
+    "componentsAdded": 0
+  },
+  {
+    "id": "IC061",
+    "name": "2 Dwellings at Tamarit ST ",
+    "url": "cases/ic061/",
+    "components": 0,
+    "summary": "露台剖面明確具有樓板及下層柱牆，屬懸空樓層，不應加土層。",
+    "evidence": [
+      "逐案目視原剖面 image43.jpg。",
+      "露台剖面明確具有樓板及下層柱牆，屬懸空樓層，不應加土層。"
+    ],
+    "assumptions": [
+      "不因樓板、平台或構造底邊而推定大地；待有基地剖面或其他可核驗資料才補建。"
+    ],
+    "status": "not_supported",
+    "componentsAdded": 0
+  },
+  {
+    "id": "IC062",
+    "name": "Tiny Apartment In Paris",
+    "url": "cases/ic062/",
+    "components": 0,
+    "summary": "服務核心詳圖中的排水坡度屬室內地坪，不是自然坡地。",
+    "evidence": [
+      "逐案目視原剖面 image13.jpg。",
+      "服務核心詳圖中的排水坡度屬室內地坪，不是自然坡地。"
+    ],
+    "assumptions": [
+      "不因樓板、平台或構造底邊而推定大地；待有基地剖面或其他可核驗資料才補建。"
+    ],
+    "status": "not_supported",
+    "componentsAdded": 0
+  },
+  {
+    "id": "IC065",
+    "name": "Six N. Five Studio Renovation",
+    "url": "cases/ic065/",
+    "components": 0,
+    "summary": "工作室錯層及右側小院底部為連續建築板；缺乏土層或外部地形依據。",
+    "evidence": [
+      "逐案目視原剖面 image5.jpg。",
+      "工作室錯層及右側小院底部為連續建築板；缺乏土層或外部地形依據。"
+    ],
+    "assumptions": [
+      "不因樓板、平台或構造底邊而推定大地；待有基地剖面或其他可核驗資料才補建。"
+    ],
+    "status": "not_supported",
+    "componentsAdded": 0
+  },
+  {
+    "id": "IC068",
+    "name": "ZHY House",
+    "url": "cases/ic068/",
+    "components": 3,
+    "summary": "左側戶外植栽旁的地面向庭院下降，右側門階外另有較低街面；兩側分開補地表，保留中央室內。",
+    "evidence": [
+      "逐案目視原剖面 image25.jpg。",
+      "左側戶外植栽旁的地面向庭院下降，右側門階外另有較低街面；兩側分開補地表，保留中央室內。"
+    ],
+    "assumptions": [
+      "地表位置按原剖面近似描繪；下方地層厚度與水平截斷邊界僅為剖切展示推估，並非鑽探資料。",
+      "地層沿模型橫向等寬延伸至 x=-1.6～1.6 相對單位，未由基地平面校核；材質與棕灰色為示意。"
+    ],
+    "status": "added",
+    "componentsAdded": 3
+  },
+  {
+    "id": "IC070",
+    "name": "Renovation of Largo Ning Yang Road Shop",
+    "url": "cases/ic070/",
+    "components": 4,
+    "summary": "剖透視顯示小屋兩側院落地面；補兩側的近剖切邊緣，不能把透視效果當作實測坡度。",
+    "evidence": [
+      "逐案目視原剖面 image17.jpg。",
+      "剖透視顯示小屋兩側院落地面；補兩側的近剖切邊緣，不能把透視效果當作實測坡度。"
+    ],
+    "assumptions": [
+      "地表位置按原剖面近似描繪；下方地層厚度與水平截斷邊界僅為剖切展示推估，並非鑽探資料。",
+      "地層沿模型橫向等寬延伸至 x=-1.6～1.6 相對單位，未由基地平面校核；材質與棕灰色為示意。",
+      "來源為剖透視；兩側近邊線的傾斜包含透視效果，模型不代表真實測量坡度。"
+    ],
+    "status": "added",
+    "componentsAdded": 4
+  },
+  {
+    "id": "IC072",
+    "name": "Boathouse Home Office",
+    "url": "cases/ic072/",
+    "components": 0,
+    "summary": "工作區剖面未呈現船體、水面或岸地，不能因案名為船屋而臆造地形。",
+    "evidence": [
+      "逐案目視原剖面 image23.jpg。",
+      "工作區剖面未呈現船體、水面或岸地，不能因案名為船屋而臆造地形。"
+    ],
+    "assumptions": [
+      "不因樓板、平台或構造底邊而推定大地；待有基地剖面或其他可核驗資料才補建。"
+    ],
+    "status": "not_supported",
+    "componentsAdded": 0
+  },
+  {
+    "id": "IC074",
+    "name": "Downtown Studio",
+    "url": "cases/ic074/",
+    "components": 0,
+    "summary": "室內服務盒與夾層剖面只有結構邊界，未示外部地面。",
+    "evidence": [
+      "逐案目視原剖面 image41.jpg。",
+      "室內服務盒與夾層剖面只有結構邊界，未示外部地面。"
+    ],
+    "assumptions": [
+      "不因樓板、平台或構造底邊而推定大地；待有基地剖面或其他可核驗資料才補建。"
+    ],
+    "status": "not_supported",
+    "componentsAdded": 0
+  },
+  {
+    "id": "IC080",
+    "name": "Milazzo Apartment",
+    "url": "cases/ic080/",
+    "components": 0,
+    "summary": "多層住宅的最低樓板仍為室內構造，未見外部地形或土層。",
+    "evidence": [
+      "逐案目視原剖面 image15.jpg。",
+      "多層住宅的最低樓板仍為室內構造，未見外部地形或土層。"
+    ],
+    "assumptions": [
+      "不因樓板、平台或構造底邊而推定大地；待有基地剖面或其他可核驗資料才補建。"
+    ],
+    "status": "not_supported",
+    "componentsAdded": 0
+  },
+  {
+    "id": "IC082",
+    "name": "Doehler",
+    "url": "cases/ic082/",
+    "components": 0,
+    "summary": "既有工業建築樓板與植入平台均為構造，無地形資料。",
+    "evidence": [
+      "逐案目視原剖面 image7.jpg。",
+      "既有工業建築樓板與植入平台均為構造，無地形資料。"
+    ],
+    "assumptions": [
+      "不因樓板、平台或構造底邊而推定大地；待有基地剖面或其他可核驗資料才補建。"
+    ],
+    "status": "not_supported",
+    "componentsAdded": 0
+  },
+  {
+    "id": "IC085",
+    "name": "Urban Shelter",
+    "url": "cases/ic085/",
+    "components": 0,
+    "summary": "室內高低平台是空間設計，不是自然大地；圖面沒有外部土層依據。",
+    "evidence": [
+      "逐案目視原剖面 image11.jpg。",
+      "室內高低平台是空間設計，不是自然大地；圖面沒有外部土層依據。"
+    ],
+    "assumptions": [
+      "不因樓板、平台或構造底邊而推定大地；待有基地剖面或其他可核驗資料才補建。"
+    ],
+    "status": "not_supported",
+    "componentsAdded": 0
+  },
+  {
+    "id": "IC087",
+    "name": "Flix House",
+    "url": "cases/ic087/",
+    "components": 0,
+    "summary": "屋頂及服務牆剖面未含外部地面，不以底板推定土層。",
+    "evidence": [
+      "逐案目視原剖面 image19.jpg。",
+      "屋頂及服務牆剖面未含外部地面，不以底板推定土層。"
+    ],
+    "assumptions": [
+      "不因樓板、平台或構造底邊而推定大地；待有基地剖面或其他可核驗資料才補建。"
+    ],
+    "status": "not_supported",
+    "componentsAdded": 0
+  },
+  {
+    "id": "IC092",
+    "name": "DESCENTE BLANC Sapporo Store",
+    "url": "cases/ic092/",
+    "components": 0,
+    "summary": "店面底板下短斜線未附外部地形或土壤層次說明；保守保留既有底板，不擴充大地。",
+    "evidence": [
+      "逐案目視原剖面 image49.jpg。",
+      "店面底板下短斜線未附外部地形或土壤層次說明；保守保留既有底板，不擴充大地。"
+    ],
+    "assumptions": [
+      "不因樓板、平台或構造底邊而推定大地；待有基地剖面或其他可核驗資料才補建。"
+    ],
+    "status": "not_supported",
+    "componentsAdded": 0
+  },
+  {
+    "id": "IC098",
+    "name": "Etam Paris Store",
+    "url": "cases/ic098/",
+    "components": 1,
+    "summary": "左側街面與地下層外牆關係明確；只在地下室左側外牆外補街面下地層，不填入地下賣場。",
+    "evidence": [
+      "逐案目視原剖面 image21.jpg。",
+      "左側街面與地下層外牆關係明確；只在地下室左側外牆外補街面下地層，不填入地下賣場。"
+    ],
+    "assumptions": [
+      "地表位置按原剖面近似描繪；下方地層厚度與水平截斷邊界僅為剖切展示推估，並非鑽探資料。",
+      "地層沿模型橫向等寬延伸至 x=-1.6～1.6 相對單位，未由基地平面校核；材質與棕灰色為示意。"
+    ],
+    "status": "added",
+    "componentsAdded": 1
+  }
+]
