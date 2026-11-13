@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-13",
+  "sites": [
+    {
+      "path": "sites/section-case-lab",
+      "version": 4,
+      "commit": "b5c10d970c2a38b78d68e041b03813bd29378bbe"
+    },
+    {
+      "path": "sites/section-lab-b14",
+      "version": 8,
+      "commit": "074be159b8127e839926567dd165ab8d24b0cf31"
+    }
+  ],
+  "site_file_count": 224
+}
