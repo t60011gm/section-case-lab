@@ -1,25 +1,28 @@
-# Section Case Lab
+# 剖面案例實驗室 · Section Case Lab
 
-50 個建築與室內剖面教學案例、總導覽，以及原 B14 示範網站的私人原始碼備份。
+這是《剖面案例實驗室》的公開 GitHub 備份。主站收錄 **78 個互動剖面案例**：41 個建築案例與 37 個室內案例。保留原有 50 案，並新增 28 案；案例可操作 X、Y、Z 三軸剖切，網站也可篩選原有或新增案例。
 
-## 原網站（未變更網址或發布內容）
-- https://section-case-lab.jackylin.chatgpt.site
-- https://section-lab-b14.jackylin.chatgpt.site
+- [剖面案例實驗室（78 案主站）](https://section-case-lab.jackylin.chatgpt.site/)
+- [原 B14 示範網站](https://section-lab-b14.jackylin.chatgpt.site/)（獨立保留）
+- [剖面占卜所](https://section-arcana.jackylin.chatgpt.site/)（獨立網站，78 張牌連回對應案例；不包含在此備份）
 
-## 還原與本機預覽
-1. 下載本 repository ZIP，或 git clone。
-2. 在 `sites/section-case-lab/dist` 執行 `python3 -m http.server 8000`。
-3. 瀏覽 `http://localhost:8000`。原 B14 可在 `sites/section-lab-b14/dist` 以相同方式預覽。
-4. 在 repository 根目錄執行 `sha256sum -c SHA256SUMS` 驗證檔案。
+## 本機預覽與檔案驗證
 
-`.openai/hosting.json` 保存原站識別資訊，僅適用於還原原站；建立新站時勿重用原 project_id，應重新註冊。此 repository 未設定 GitHub Pages、CI 或自動發布，不影響公開網站。
+1. 下載本儲存庫的 ZIP 並解壓縮，或以 Git 複製。
+2. 在儲存庫根目錄執行 `python3 -m http.server 8000 --directory sites/section-case-lab/dist`。
+3. 開啟 [http://localhost:8000/](http://localhost:8000/)。若要預覽原 B14，將指令中的目錄改成 `sites/section-lab-b14/dist`。
+4. 在儲存庫根目錄執行 `sha256sum -c SHA256SUMS` 驗證；macOS 可改用 `shasum -a 256 -c SHA256SUMS`。
 
-## 範圍與限制
-包含 HTML、JavaScript、模型 JSON、圖片、來源連結與地形/建築材質區分版本。50 個案例中 49 個使用模型 JSON，A046 使用內嵌模型程式。模型是教學示意，不是經測繪驗證之 BIM 或施工資料。圖片與外部資料權利仍歸原權利人，私人備份不代表獲得公開再散布授權。未包含密碼、token 或 Git 工作區設定。
+此儲存庫不會部署或更新公開網站。各站的 `.openai/hosting.json` 保留原站識別資訊，供原站還原使用；另建站時請勿重用原站識別碼。
 
-## 來源版本
-- 主站 v4：`b5c10d970c2a38b78d68e041b03813bd29378bbe`
-- 原 B14 v8：`074be159b8127e839926567dd165ab8d24b0cf31`
-- 備份日期：2026-11-13
+## 資料與權利
 
-備份以獨立分支及 Draft PR 提交，尚未合併 main。
+- 包含靜態網站、互動模型、剖面預覽及來源連結。模型為剖面閱讀與教學示意，不是經測繪驗證的 BIM、結構分析或施工圖。
+- 新增 28 案附原始剖面來源連結，並區分圖面可見資訊與教學推估；不將這 28 案的原始圖紙重製進本次更新。
+- 本儲存庫設為公開，不代表其中的第三方照片、圖面或外部資料均可再散布。相關權利仍歸原權利人；使用前請查核個別來源條件。
+
+## 備份來源
+
+- 主站 v7（2026-11-19）：`458e225ae53b59dd29a92bc224e3fb6a9ac8cdc5`
+- 原 B14 v8（沿用既有備份）：`074be159b8127e839926567dd165ab8d24b0cf31`
+- 版本資訊與檔案數詳見 [backup-manifest.json](backup-manifest.json)。

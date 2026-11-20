@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-19",
   "sites": [
     {
       "path": "sites/section-case-lab",
-      "version": 4,
-      "commit": "b5c10d970c2a38b78d68e041b03813bd29378bbe"
+      "version": 7,
+      "commit": "458e225ae53b59dd29a92bc224e3fb6a9ac8cdc5"
     },
     {
       "path": "sites/section-lab-b14",
@@ -12,5 +12,5 @@
       "commit": "074be159b8127e839926567dd165ab8d24b0cf31"
     }
   ],
-  "site_file_count": 224
+  "site_file_count": 337
 }
